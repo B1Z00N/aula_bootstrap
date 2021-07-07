@@ -1,0 +1,38 @@
+
+.pizza{
+margin: 10px;
+}
+
+.quem-somos{
+background-color: rgb(233, 233, 233);
+border-top:solid 1px;
+border-top-left-radius: 3%;
+border-top-right-radius: 3%;
+padding-top: 10px;
+padding-bottom: 25px;
+}
+
+.pitizas{
+    background-color: rgb(211, 211, 211);
+}
+
+.receitas{
+background-color: rgb(187, 187, 187);
+text-align:center;
+}
+
+.margin{
+padding-bottom: 50px;
+padding-top: 10px;
+}
+
+.receitas{
+text-align:center;
+}
+.sabor{
+font-size: 20px;
+}
+
+.atum{
+    font-size: 10px;
+}
